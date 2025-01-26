@@ -15,12 +15,6 @@
 - Programming: C, HTML/CSS, Git/GitHub.
 - Tools: Visual Studio Code, Canva.
 
----
-
-## 📂 Featured Projects:
-1. **Portfolio Website**: [Link](#)
-2. **Essay Archive**: [Link](#)
-3. **Basic Algorithms in C**: [Link](#)
 
 ---
 
