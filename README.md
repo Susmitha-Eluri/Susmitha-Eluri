@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Susmitha Eluri!
 
-<!--
-**Susmitha-Eluri/Susmitha-Eluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech IT Student** | ✍️ Essay Competition Winner | 🌟 Aspiring Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me:
+- 🎯 Passionate about technology, coding, and creative writing.
+- 🌐 Interested in web development, problem-solving, and continuous learning.
+- 🏆 Recent Achievements: 1st place in 'Viksit Bharat' essay competition.
+
+---
+
+## 🚀 Skills:
+- Programming: C, HTML/CSS, Git/GitHub.
+- Tools: Visual Studio Code, Canva.
+
+---
+
+## 📂 Featured Projects:
+1. **Portfolio Website**: [Link](#)
+2. **Essay Archive**: [Link](#)
+3. **Basic Algorithms in C**: [Link](#)
+
+---
+
+🌟 Let's connect: (http://linkedin.com/in/susmitha-eluri-626a33323)
