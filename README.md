@@ -6,7 +6,7 @@
 
 ## 🌟 About Me:
 - 🎯 Passionate about technology, coding, and creative writing.
-- 🌐 Interested in web development, problem-solving, and continuous learning.
+- 🌐 Interested in web development, problem-solving, python programming and continuous learning.
 - 🏆 Recent Achievements: 1st place in 'Viksit Bharat' essay competition.
 
 ---
